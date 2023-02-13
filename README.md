@@ -1,7 +1,6 @@
-# Desafio FullCycle - Iniciando com Docker
+# Desafio FullCycle
 
-
-Desafio Go
+Iniciando com Docker - Desafio Go
 
 ## Docker Hub
 
